@@ -34,9 +34,6 @@ const About = () => {
           </h1>
           <p>
             <h2>
-          I am an ambitious full stack developer. 
-          I always look for challenging opportunities where I can fully use my 
-          skills for the success of my employer while advancing my career.
           </h2>
           </p>
           <p>
